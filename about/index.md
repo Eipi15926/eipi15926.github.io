@@ -4,3 +4,5 @@ type: about
 ---
 
 Building...
+
+友链
