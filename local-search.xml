@@ -4,12 +4,18 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2024/02/17/hello-world/"/>
-    <url>/2024/02/17/hello-world/</url>
+    <title>序：树洞的年轮</title>
+    <link href="/2024/02/17/Hello-World-0/"/>
+    <url>/2024/02/17/Hello-World-0/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Hello World！</p><p>你好！我是溟溯。溟溯的树洞感谢你的到来。</p><p>在信息爆炸的每一天里，孤零零的个人博客就像是汪洋中的孤岛。YOLO、VAE、Transformer、Diffusion，全新的深度网络、框架和应用层出不穷，ChatGPT、StableDiffusion和Sora似乎正在将未来推向狂飙的方向，而我的博客陷入沉寂，与世隔绝——在现实的忙碌中，溟溯的树洞年久失修。</p><p>这已然是溟溯的树洞的第三个版本：最早的树洞建立于2021年7月22日，后于2022年3月6日更换主题模板，并对网站与博客进行整理；在2024年2月17日，将博客框架从Jekyll更换到Hexo，将模板更换为如今的Fluid。在整个2023年，溟溯的树洞一言不发，没有收到来自溟溯的任何博文。</p><p>直到未来的轨道出现、匆忙的步履暂歇，我方有时间回望过去：在过去的一年里，在对未来的迷茫里，我兜兜转转，过往的记忆在逐渐变得不真切，而我试图在一切的流逝中抓住那些我曾“存在”的见证，却说不出个所以然。作为一位大四学生，我开始认真回忆我在计算机系的将近四年的日子。</p><p>或许我已走了很远，从连VSCode配个环境都吃力的编程小白到给自己搭博客网站的小白；打了（不知道学成了什么样的）数理基础，以及从零开始的C++生活，在机器学习的摸爬滚打中对着帮助文档写Python程序；写汇编代码、写过CPU、写过体系结构流水线、写过基于Yolo的流程图检测、配置过外挂文档的大语言模型、做过符号音乐序列的和弦生成；去见证过图形学、SDN的瑰丽，计算机安全和密码学的神奇，最后走上了数学和机器学习的道路。记忆的框架仍在，只是细节逐渐变得模糊，还有更多的细节已经模糊，甚至从未存在于记忆之中。它因久远失真而失去了“记录”的本能，我也可能在这样的旅途中忘记了曾经的酸甜苦辣，忘记了曾经的“感受”，忘记了来时的路。</p><p>正因如此，我需要属于我的“存在的见证”。于是，溟溯的树洞应运而生。它就像大语言模型的外挂知识库，我不必全部记得，但需要存在一种用于见证的索引。</p><p>我在日复一日的沉默中失语，表达便成为了一种亟待学习的能力。曾有人说，一首曲子只有在登台演奏后才能算是学会。与之类似，一位优秀的老师曾经向我们介绍过小黄鸭程序调试法：当你调不出bug，不妨试着对桌上的小黄鸭讲讲你这段代码背后的想法。认真而专注的讲述是如此迫在眉睫，树洞便由此出现。博客让我在叙述之时拥抱自己，首先它是写给自己的历史。它可能是我在完成项目中的点滴，可能是生活中的杂谈，可能是解题时的灵光一闪，可能是我对我的发现的概括与论证。它正见证我的足迹，唤醒我沉睡的声音，记录我曾“鲜活地存在过”，也让我在明亮的真实中走向未来。</p><p>这是溟溯的树洞，是属于“我”的历史与现在。</p><p>感谢你看到这里，也很高兴能与你同行！</p>]]></content>
     
+    
+    <categories>
+      
+      <category>漫谈</category>
+      
+    </categories>
     
     
   </entry>
